@@ -13,7 +13,7 @@ import (
 )
 
 const applicationName = "togglcsv"
-const applicationVersion = "1.0.0-dev"
+const applicationVersion = "v1.0.0"
 const togglAPIBaseURL = "https://www.toggl.com/api/v8"
 
 var out io.Writer
